@@ -1,4 +1,4 @@
-::使用ping扫描内网c段,
+::使用ping扫描内网c段
 ::使用方法: .\ip_pingscan_with_param 192.168.1
 ::ping通的主机放在当前执行目录的ip_success.txt
 ::注：
